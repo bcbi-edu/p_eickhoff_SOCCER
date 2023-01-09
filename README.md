@@ -2,7 +2,7 @@
   *by Ruochen Zhang and Carsten Eickhoff*
 
 This repository contains source code necessary to collect the dataset and reproduce the results presented in 
-[SOCCER: An Information-Sparse Discourse State Tracking Collection in the Sports Commentary Domain](http://brown.edu/Research/AI/files/pubs/naacl21.pdf).
+[SOCCER: An Information-Sparse Discourse State Tracking Collection in the Sports Commentary Domain](https://aclanthology.org/2021.naacl-main.342.pdf).
 
 ## Getting Started
 ### Requirements
